@@ -1,0 +1,14 @@
+PODS:
+  - CQDanmaku (0.1.0)
+
+DEPENDENCIES:
+  - CQDanmaku (from `../`)
+
+EXTERNAL SOURCES:
+  CQDanmaku:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CQDanmaku: b9b17fc73f81729e3d00c952e90f03595eb7f3b4
+
+COCOAPODS: 0.39.0
