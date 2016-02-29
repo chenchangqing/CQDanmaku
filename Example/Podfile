@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'CQDanmaku_Example', :exclusive => true do
+  pod 'CQDanmaku', :path => '../'
+end
+
+target 'CQDanmaku_Tests', :exclusive => true do
+  pod 'CQDanmaku', :path => '../'
+
+  
+end
